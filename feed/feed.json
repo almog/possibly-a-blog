@@ -1,0 +1,19 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Possibly a blog?",
+  "home_page_url": "https://example.com/",
+  "feed_url": "https://example.com/feed/feed.json",
+  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "author": {
+    "name": "Almog Kurtser",
+    "url": ""
+  },
+  "items": [{
+      "id": "https://example.com/eleventy-base-blog/posts/hello_world/",
+      "url": "https://example.com/eleventy-base-blog/posts/hello_world/",
+      "title": "Hello, world!",
+      "content_html": "<p>But why? And for whom?</p>\n<p>But of course, for myself and the naive yet hopeful attempt for the embetterment of such a selfish creature.</p>\n",
+      "date_published": "2020-12-06T00:00:00+00:00"
+    }
+  ]
+}
