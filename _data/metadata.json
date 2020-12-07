@@ -1,16 +1,16 @@
 {
   "title": "Possibly a blog?",
-  "url": "https://example.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "url": "https://almog.github.com/possibly-a-blog/",
+  "description": "I might deliberately or otherwise poke the keyboard with my fingers until words manifest themselves into that blog thing.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "I might deliberately or otherwise poke the keyboard with my fingers until words manifest themselves into that blog thing.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://example.com/"
+    "id": "https://almog.github.com/possibly-a-blog/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://example.com/feed/feed.json"
+    "url": "https://almog.github.com/possibly-a-blog/feed/feed.json"
   },
   "author": {
     "name": "Almog Kurtser",
