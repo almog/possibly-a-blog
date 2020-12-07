@@ -3,6 +3,7 @@ title: Hello, world!
 description: A traditional greeting.
 date: 2020-12-06
 tags:
+  - post
 layout: layouts/post.njk
 ---
 
