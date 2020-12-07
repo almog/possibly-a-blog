@@ -3,7 +3,7 @@
 	<title>Possibly a blog?</title>
 	<subtitle>I might deliberately or otherwise poke the keyboard with my fingers until words manifest themselves into that blog thing.</subtitle>
 	
-	<link href="https://almog.github.com/eleventy-base-blog/feed/feed.xml" rel="self"/>
+	<link href="https://almog.github.com/possibly-a-blog/feed/feed.xml" rel="self"/>
 	<link href="https://almog.github.com/possibly-a-blog/"/>
 	<updated>2020-12-06T00:00:00+00:00</updated>
 	<id>https://almog.github.com/possibly-a-blog/</id>
@@ -14,9 +14,9 @@
 	
 	<entry>
 		<title>Hello, world!</title>
-		<link href="https://almog.github.com/eleventy-base-blog/posts/hello_world/"/>
+		<link href="https://almog.github.com/possibly-a-blog/posts/hello_world/"/>
 		<updated>2020-12-06T00:00:00+00:00</updated>
-		<id>https://almog.github.com/eleventy-base-blog/posts/hello_world/</id>
+		<id>https://almog.github.com/possibly-a-blog/posts/hello_world/</id>
 		<content type="html">&lt;p&gt;But why? And for whom?&lt;/p&gt;
 &lt;p&gt;But of course, for myself and the naive yet hopeful attempt for the embetterment of such a selfish creature.&lt;br&gt;
 So, yes, I might deliberately or otherwise poke the keyboard with my fingers until words manifest themselves into that blog thing.&lt;/p&gt;
